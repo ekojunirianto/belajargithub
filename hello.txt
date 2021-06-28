@@ -1,7 +1,2 @@
 hello world saja
 
-yes tes
-=======
--[] OK-
--[]-
-
