@@ -6,6 +6,6 @@ Mencoba melakukan penambahan pembaruan deskripsi
 - Memulai melakukan ulasan pada setiap perubahan kode
 
 Mencoba Latihan Squash and Merge
-- [x] Squash 1
-- [x] Squash 2
-- [x] Squash 3
+- [ ] Squash 1
+- [ ] Squash 2
+- [ ] Squash 3
