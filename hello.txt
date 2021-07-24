@@ -5,6 +5,9 @@ Mencoba melakukan penambahan pembaruan deskripsi
 - Bagaimana melakukan code review pada GitHub
 - Memulai melakukan ulasan pada setiap perubahan kode
 
+Mencoba melakukan penambahan pembaruan deskripsi 2
+- Mencoba Push Request melalui fork
+
 Mencoba Latihan Squash and Merge
 - [ ] Squash 1
 - [ ] Squash 2
