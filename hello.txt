@@ -1,9 +1,8 @@
 hello world saja
 
 Mencoba melakukan penambahan pembaruan deskripsi
-- Mencoba Push Request melalui fork
-- Bagaimana melakukan code review pada GitHub
-- Memulai melakukan ulasan pada setiap perubahan kode
+
+- Uji Coba Push Request melalui fork
 
 Mencoba Latihan Squash and Merge
 - [ ] Squash 1
