@@ -11,3 +11,5 @@ Mencoba Latihan Squash and Merge
 - [ ] Squash 3
 
 Menocoba Latihan Fork
+
+hallo
