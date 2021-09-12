@@ -10,4 +10,4 @@ Mencoba Latihan Squash and Merge
 - [ ] Squash 2
 - [ ] Squash 3
 
-Mencoba fitr fork digithub
+Mencoba fitur fork digithub
