@@ -11,3 +11,4 @@ Mencoba Latihan Squash and Merge
 - [x] Squash 3
 - [x] Squash 4
 - [x] Squash 5
+- [x] Squash 6
