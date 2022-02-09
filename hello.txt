@@ -13,3 +13,4 @@ Mencoba Latihan Squash and Merge
 Mencoba melakukan perubahan file sebagai kontributor
 
 Latihan melakukan squash change
+- Squash 1
