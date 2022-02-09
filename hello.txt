@@ -9,3 +9,10 @@ Mencoba Latihan Squash and Merge
 - [ ] Squash 1
 - [ ] Squash 2
 - [ ] Squash 3
+
+Mencoba melakukan perubahan file sebagai kontributor
+
+Latihan melakukan squash change
+- Squash 1
+- Squash 2
+- Squash 3
