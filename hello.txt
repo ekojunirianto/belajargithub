@@ -15,3 +15,4 @@ Mencoba melakukan perubahan file sebagai kontributor
 Latihan melakukan squash change
 - Squash 1
 - Squash 2
+- Squash 3
