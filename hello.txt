@@ -1,4 +1,4 @@
-hello world saja
+hello world
 
 Mencoba melakukan penambahan pembaruan deskripsi
 - Mencoba Push Request melalui fork
