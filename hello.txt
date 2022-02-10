@@ -1,7 +1,7 @@
 hello world saja
 
 Mencoba melakukan penambahan pembaruan deskripsi
-- Mencoba Push Request melalui fork
+- Mencoba Push Request melalui fork 2
 - Bagaimana melakukan code review pada GitHub
 - Memulai melakukan ulasan pada setiap perubahan kode
 
