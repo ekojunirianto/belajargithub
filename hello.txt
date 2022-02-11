@@ -10,4 +10,6 @@ Mencoba Latihan Squash and Merge
 - [ ] Squash 2
 - [ ] Squash 3
 
-new
+new  
+  
+Update Squash 1
