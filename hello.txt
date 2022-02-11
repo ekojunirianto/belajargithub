@@ -11,3 +11,4 @@ Mencoba Latihan Squash and Merge
 - [ ] Squash 3
 
 mencoba pull request melalui fork versi audy
+hehehee
