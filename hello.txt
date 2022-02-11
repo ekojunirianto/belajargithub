@@ -12,4 +12,5 @@ Mencoba Latihan Squash and Merge
 
 new  
   
-Update Squash 1
+Update Squash 1  
+Update Squash 2
