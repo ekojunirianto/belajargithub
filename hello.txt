@@ -7,5 +7,5 @@ Mencoba melakukan penambahan pembaruan deskripsi
 
 Mencoba Latihan Squash and Merge
 - [ ] Squash 1
-- [ ] Squash 
+- [ ] Squash 2
 - [x] Squash 
