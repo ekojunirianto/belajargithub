@@ -2,5 +2,5 @@ hello world saja
 
 Mencoba melakukan penambahan pembaruan deskripsi
 
-- Mencoba mengulangi Push Request melalui fork
+- Mencoba Push Request melalui fork
 
