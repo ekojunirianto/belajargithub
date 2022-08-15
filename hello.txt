@@ -1,3 +1,4 @@
 hello world saja
 
 Mencoba melakukan penambahan pembaruan deskripsi
+- belajar dasar git
