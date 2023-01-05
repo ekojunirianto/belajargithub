@@ -9,3 +9,7 @@ Mencoba Latihan Squash and Merge
 - [ ] Squash 1
 - [ ] Squash 2
 - [ ] Squash 3
+
+Mencoba melakukan sedikit perubahan:
+- Mencoba melakukan fork pada repositori ini
+- Mencoba melakukan commit pada file hello.txt
