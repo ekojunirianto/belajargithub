@@ -5,7 +5,4 @@ Mencoba melakukan penambahan pembaruan deskripsi
 - Bagaimana melakukan code review pada GitHub
 - Memulai melakukan ulasan pada setiap perubahan kode
 
-Mencoba Latihan Squash and Merge
-- [ ] Squash 1
-- [ ] Squash 2
-- [ ] Squash 3
+**Mencoba Latihan Colaborasi**  
