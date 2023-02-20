@@ -1,4 +1,4 @@
-hello world saja
+hello world 
 
 Mencoba melakukan penambahan pembaruan deskripsi
 - Mencoba Push Request melalui fork
@@ -9,3 +9,5 @@ Mencoba Latihan Squash and Merge
 - [ ] Squash 1
 - [ ] Squash 2
 - [ ] Squash 3
+
+Mencoba menerima pull request melalui fork
