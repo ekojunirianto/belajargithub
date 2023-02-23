@@ -6,7 +6,7 @@ Mencoba melakukan penambahan pembaruan deskripsi
 - Memulai melakukan ulasan pada setiap perubahan kode
 
 Mencoba Latihan Squash and Merge
-- [ ] Squash 1
+- [ ] Squash 1 Up
 - [ ] Squash 2
 - [ ] Squash 3
 - [ ] Squash 4
