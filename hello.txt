@@ -7,6 +7,6 @@ Mencoba melakukan penambahan pembaruan deskripsi
 
 Mencoba Latihan Squash and Merge
 - [ ] Squash 1 Up
-- [ ] Squash 2
+- [ ] Squash 2 Up
 - [ ] Squash 3
 - [ ] Squash 4
