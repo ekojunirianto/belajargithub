@@ -12,3 +12,4 @@ Mencoba Latihan Squash and Merge
 
 Mencoba Testing
 - Satu-satu
+- Dua-dua
