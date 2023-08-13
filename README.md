@@ -1,2 +1,4 @@
 # belajargithub
-kita akan mempelajari cara penggunaan github 
+Kita akan mempelajari cara penggunaan github  
+
+Berikut adalah materi yang terkait dengan cara penggunaan GitHub
