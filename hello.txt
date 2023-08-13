@@ -9,3 +9,5 @@ Mencoba Latihan Squash and Merge
 - [ ] Squash 1
 - [ ] Squash 2
 - [ ] Squash 3
+
+Ini update teks di tanggal 14 Agustus 2023
