@@ -7,7 +7,7 @@ Mencoba melakukan penambahan pembaruan deskripsi
 
 * mencoba push request menggunakan fork
 
-Mencoba Latihan Squash and Merge
-- [ ] Squash 1
+Latihan Squash and Merge
+- membuat Squash 1
 - [ ] Squash 2  
 - [ ] Squash 3
