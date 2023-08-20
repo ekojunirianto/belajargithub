@@ -10,4 +10,4 @@ Mencoba melakukan penambahan pembaruan deskripsi
 Latihan Squash and Merge
 - membuat Squash 1
 - membuat Squash 2  
-- [ ] Squash 3
+- membuat Squash 3
