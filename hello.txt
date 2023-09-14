@@ -9,3 +9,6 @@ Mencoba Latihan Squash and Merge
 - [ ] Squash 1
 - [ ] Squash 2
 - [ ] Squash 3
+
+Halo saya sedang belajar menggunakan GitHub di Dicoding.
+Terima kasih atas pelajarannya.
